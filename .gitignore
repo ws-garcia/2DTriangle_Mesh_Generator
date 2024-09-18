@@ -42,7 +42,7 @@ bld/
 Generated\ Files/
 
 # Visual Studio workspaces files
-.code-workspace
+*.code-workspace
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
